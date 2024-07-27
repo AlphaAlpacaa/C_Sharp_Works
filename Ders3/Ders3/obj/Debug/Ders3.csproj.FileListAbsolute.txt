@@ -1,0 +1,11 @@
+C:\Users\alp\source\repos\Ders3\Ders3\bin\Debug\Ders3.exe.config
+C:\Users\alp\source\repos\Ders3\Ders3\bin\Debug\Ders3.exe
+C:\Users\alp\source\repos\Ders3\Ders3\bin\Debug\Ders3.pdb
+C:\Users\alp\source\repos\Ders3\Ders3\obj\Debug\Ders3.csprojAssemblyReference.cache
+C:\Users\alp\source\repos\Ders3\Ders3\obj\Debug\Ders3.Form1.resources
+C:\Users\alp\source\repos\Ders3\Ders3\obj\Debug\Ders3.Properties.Resources.resources
+C:\Users\alp\source\repos\Ders3\Ders3\obj\Debug\Ders3.csproj.GenerateResource.cache
+C:\Users\alp\source\repos\Ders3\Ders3\obj\Debug\Ders3.csproj.CoreCompileInputs.cache
+C:\Users\alp\source\repos\Ders3\Ders3\obj\Debug\Ders3.exe
+C:\Users\alp\source\repos\Ders3\Ders3\obj\Debug\Ders3.pdb
+C:\Users\alp\source\repos\Ders3\Ders3\obj\Debug\Ders3.Form3.resources

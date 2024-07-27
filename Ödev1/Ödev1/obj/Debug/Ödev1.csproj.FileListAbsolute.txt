@@ -1,0 +1,10 @@
+C:\Users\alp\source\repos\Ödev1\Ödev1\bin\Debug\Ödev1.exe.config
+C:\Users\alp\source\repos\Ödev1\Ödev1\bin\Debug\Ödev1.exe
+C:\Users\alp\source\repos\Ödev1\Ödev1\bin\Debug\Ödev1.pdb
+C:\Users\alp\source\repos\Ödev1\Ödev1\obj\Debug\Ödev1.csprojAssemblyReference.cache
+C:\Users\alp\source\repos\Ödev1\Ödev1\obj\Debug\Ödev1.Form1.resources
+C:\Users\alp\source\repos\Ödev1\Ödev1\obj\Debug\Ödev1.Properties.Resources.resources
+C:\Users\alp\source\repos\Ödev1\Ödev1\obj\Debug\Ödev1.csproj.GenerateResource.cache
+C:\Users\alp\source\repos\Ödev1\Ödev1\obj\Debug\Ödev1.csproj.CoreCompileInputs.cache
+C:\Users\alp\source\repos\Ödev1\Ödev1\obj\Debug\Ödev1.exe
+C:\Users\alp\source\repos\Ödev1\Ödev1\obj\Debug\Ödev1.pdb

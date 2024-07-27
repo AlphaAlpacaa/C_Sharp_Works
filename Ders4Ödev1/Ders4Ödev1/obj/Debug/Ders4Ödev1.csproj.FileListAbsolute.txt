@@ -1,0 +1,14 @@
+C:\Users\alp\source\repos\Ders4Ödev1\Ders4Ödev1\bin\Debug\Ders4Ödev1.exe.config
+C:\Users\alp\source\repos\Ders4Ödev1\Ders4Ödev1\bin\Debug\Ders4Ödev1.exe
+C:\Users\alp\source\repos\Ders4Ödev1\Ders4Ödev1\bin\Debug\Ders4Ödev1.pdb
+C:\Users\alp\source\repos\Ders4Ödev1\Ders4Ödev1\obj\Debug\Ders4Ödev1.csprojAssemblyReference.cache
+C:\Users\alp\source\repos\Ders4Ödev1\Ders4Ödev1\obj\Debug\Ders4Ödev1.Form1.resources
+C:\Users\alp\source\repos\Ders4Ödev1\Ders4Ödev1\obj\Debug\Ders4Ödev1.Properties.Resources.resources
+C:\Users\alp\source\repos\Ders4Ödev1\Ders4Ödev1\obj\Debug\Ders4Ödev1.csproj.GenerateResource.cache
+C:\Users\alp\source\repos\Ders4Ödev1\Ders4Ödev1\obj\Debug\Ders4Ödev1.csproj.CoreCompileInputs.cache
+C:\Users\alp\source\repos\Ders4Ödev1\Ders4Ödev1\obj\Debug\Ders4Ödev1.exe
+C:\Users\alp\source\repos\Ders4Ödev1\Ders4Ödev1\obj\Debug\Ders4Ödev1.pdb
+C:\Users\alp\source\repos\Ders4Ödev1\Ders4Ödev1\obj\Debug\Ders4Ödev1.Form2.resources
+C:\Users\alp\source\repos\Ders4Ödev1\Ders4Ödev1\obj\Debug\Ders4Ödev1.Form3.resources
+C:\Users\alp\source\repos\Ders4Ödev1\Ders4Ödev1\obj\Debug\Ders4Ödev1.Form4.resources
+C:\Users\alp\source\repos\Ders4Ödev1\Ders4Ödev1\obj\Debug\Ders4Ödev1.Form5.resources

@@ -1,0 +1,17 @@
+C:\Users\alp\source\repos\Youtube_mp3-mp4_downloader\Youtube_mp3-mp4_downloader\bin\Debug\Youtube_mp3-mp4_downloader.exe.config
+C:\Users\alp\source\repos\Youtube_mp3-mp4_downloader\Youtube_mp3-mp4_downloader\bin\Debug\Youtube_mp3-mp4_downloader.exe
+C:\Users\alp\source\repos\Youtube_mp3-mp4_downloader\Youtube_mp3-mp4_downloader\bin\Debug\Youtube_mp3-mp4_downloader.pdb
+C:\Users\alp\source\repos\Youtube_mp3-mp4_downloader\Youtube_mp3-mp4_downloader\bin\Debug\libvideo.dll
+C:\Users\alp\source\repos\Youtube_mp3-mp4_downloader\Youtube_mp3-mp4_downloader\bin\Debug\MediaToolkit.dll
+C:\Users\alp\source\repos\Youtube_mp3-mp4_downloader\Youtube_mp3-mp4_downloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alp\source\repos\Youtube_mp3-mp4_downloader\Youtube_mp3-mp4_downloader\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\alp\source\repos\Youtube_mp3-mp4_downloader\Youtube_mp3-mp4_downloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alp\source\repos\Youtube_mp3-mp4_downloader\Youtube_mp3-mp4_downloader\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\alp\source\repos\Youtube_mp3-mp4_downloader\Youtube_mp3-mp4_downloader\obj\Debug\Youtube_mp3-mp4_downloader.csprojAssemblyReference.cache
+C:\Users\alp\source\repos\Youtube_mp3-mp4_downloader\Youtube_mp3-mp4_downloader\obj\Debug\Youtube_mp3_mp4_downloader.Form1.resources
+C:\Users\alp\source\repos\Youtube_mp3-mp4_downloader\Youtube_mp3-mp4_downloader\obj\Debug\Youtube_mp3_mp4_downloader.Properties.Resources.resources
+C:\Users\alp\source\repos\Youtube_mp3-mp4_downloader\Youtube_mp3-mp4_downloader\obj\Debug\Youtube_mp3-mp4_downloader.csproj.GenerateResource.cache
+C:\Users\alp\source\repos\Youtube_mp3-mp4_downloader\Youtube_mp3-mp4_downloader\obj\Debug\Youtube_mp3-mp4_downloader.csproj.CoreCompileInputs.cache
+C:\Users\alp\source\repos\Youtube_mp3-mp4_downloader\Youtube_mp3-mp4_downloader\obj\Debug\Youtube_mp3-mp4_downloader.csproj.CopyComplete
+C:\Users\alp\source\repos\Youtube_mp3-mp4_downloader\Youtube_mp3-mp4_downloader\obj\Debug\Youtube_mp3-mp4_downloader.exe
+C:\Users\alp\source\repos\Youtube_mp3-mp4_downloader\Youtube_mp3-mp4_downloader\obj\Debug\Youtube_mp3-mp4_downloader.pdb
